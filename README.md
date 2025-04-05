@@ -20,7 +20,7 @@ Hi! 👋 I'm **Hakim Razalan** a Software Engineer from Malaysia 🇲🇾 at [Ri
 Often find myself enjoying fun coding and always try to build / contribute to open-source project.
 
 
-###### 🔨  I'm currently working on
+##### 🔨  I'm currently working on
 
 1. [<img src="https://ricemill.co/assets/logo/logo_ricemill_full_large_2022.svg" width="50"> | Fulfilment](https://ricemill.co)
 
@@ -28,7 +28,7 @@ Often find myself enjoying fun coding and always try to build / contribute to op
 
 3. Tetangga - Visitor Management System for Guarded Residential (Progressive Web App)
 
-###### 🤙🏻  How to contact me
+##### 🤙🏻  How to contact me
 `hakim.razalan at gmail dot com`
 
 <br />
