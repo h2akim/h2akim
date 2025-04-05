@@ -19,7 +19,6 @@ Hi! 👋 I'm **Hakim Razalan** a Software Engineer from Malaysia 🇲🇾 at [Ri
 
 Often find myself enjoying fun coding and always try to build / contribute to open-source project.
 
-<br />
 
 ###### 🔨  I'm currently working on
 
@@ -28,8 +27,6 @@ Often find myself enjoying fun coding and always try to build / contribute to op
 2. [Chip PHP SDK](https://github.com/h2akim/chip-php-sdk)
 
 3. Tetangga - Visitor Management System for Guarded Residential (Progressive Web App)
-
-<br />
 
 ###### 🤙🏻  How to contact me
 `hakim.razalan at gmail dot com`
