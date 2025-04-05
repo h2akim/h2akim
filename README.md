@@ -27,7 +27,7 @@ Often find myself enjoying fun coding and always try to build / contribute to op
 
 2. [Chip PHP SDK](https://github.com/h2akim/chip-php-sdk)
 
-3. Tetangga - Visitor Management System for Guarded Residential (PWA)
+3. Tetangga - Visitor Management System for Guarded Residential (Progressive Web App)
 
 <br />
 
