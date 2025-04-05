@@ -13,33 +13,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
 
-I'm Hakim Razalan
 
-Software Engineer from Malaysia 🇲🇾
+Hi! 👋 I'm **Hakim Razalan** a Software Engineer from Malaysia 🇲🇾 at [Ricemill].
 
-Currently working at [Ricemill]
+Often find myself enjoying fun coding and always try to build / contribute to open-source project.
 
----
+<br />
 
-##### Backend
+###### 🔨  I'm currently working on
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white)
+1. [<img src="https://ricemill.co/assets/logo/logo_ricemill_full_large_2022.svg" width="50"> | Fulfilment](https://ricemill.co)
 
-##### Frontend
+2. [Chip PHP SDK](https://github.com/h2akim/chip-php-sdk)
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=plastic&logo=vuedotjs) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+3. Tetangga - Visitor Management System for Guarded Residential (PWA)
 
-##### Others
+<br />
 
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white)
+###### 🤙🏻  How to contact me
+`hakim.razalan at gmail dot com`
 
-##### Stuff that I build
+<br />
 
-[<img src="https://rubyscratch.app/assets/icon_big-63f08accc2ff130f60226351eefe808e0d0178448cb6e01a8bceaed5d6e3d66b.png" width="50" height="50">](https://rubyscratch.app)
+| 🤖  Backend | 💃🏻  Frontend | 🤓 Others |
+|------------|--------------|-----------|
+| ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white) | ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=plastic&logo=vuedotjs) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) | ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) |
 
 
 [Ricemill]: <https://ricemill.co>
