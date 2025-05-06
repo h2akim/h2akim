@@ -31,6 +31,8 @@ Often find myself enjoying fun coding and always try to build / contribute to op
 1. [Chip PHP SDK](https://github.com/h2akim/chip-php-sdk)
 
 2. [EngineMailer PHP](https://github.com/h2akim/enginemailer-php)
+   
+4. [EngineMailer Laravel Transport](https://github.com/h2akim/enginemailer-laravel)
 
 ##### 🚀  I've previously launch
 
